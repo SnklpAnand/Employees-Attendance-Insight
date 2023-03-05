@@ -1,4 +1,4 @@
-# Employees-Attendance-Insight
+# Employees Attendance Insight
 
 Following data operations can be seen in this Project :
     Importing & Cleaning Data, Data Visualization
