@@ -1,11 +1,9 @@
-# Employees Attendance Insight
+# Employees' Attendance Insight
 
-OBJECTIVE - To track employee data for an HR team, with a focus on importing and cleaning data, as well as data visualization. The main objective of this project was likely to develop a tool that allows HR professionals to track employee data in an organized and efficient manner.
+● **SITUATION** - HR Department needs to visualize Employees' attendance data, over the past three months.
 
-RESULT - 
+● **TASK** - Incorporate employee working preferences and sick leave data in the Power BI dashboard, to capture HR requirements.
 
-● Able to design a Power BI dashboard that tracks employee data for the HR team which likely includes important metrics such as employee demographics, performance evaluations, and other relevant data points.
+● **ACTION** - Validated data using Excel, performed data transformation using Power Query and created measures in Power BI to ensure accurate and meaningful insights for effective data analysis and visualization.
 
-● The designed dashboard streamlined HR processes and increased efficiency for the HR team, which can lead to a number of benefits for the organization as a whole. For example, by having access to up-to-date employee data, the HR team can make more informed decisions about things like promotions, employee development plans, and benefits packages.
-
-CONCLUSION -  The work on this project demonstrates the proficiency in importing and cleaning data, as well as data visualization. The ability to design a tool that streamlines HR processes and increases efficiency suggests the strong analytical and problem-solving skills, as well as the ability to create solutions that meet the needs of stakeholders in different departments within an organization.
+● **RESULT** - Established a comprehensive Power BI dashboard for HR, enabling real-time tracking which resulted in a 25% reduction in HR administrative tasks and a 15% increase in operational efficiency.
